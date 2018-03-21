@@ -1,0 +1,10 @@
+/home/bran/BitcoinTransaction/bin/Debug/netcoreapp2.0/BitcoinTransaction.deps.json
+/home/bran/BitcoinTransaction/bin/Debug/netcoreapp2.0/BitcoinTransaction.runtimeconfig.json
+/home/bran/BitcoinTransaction/bin/Debug/netcoreapp2.0/BitcoinTransaction.runtimeconfig.dev.json
+/home/bran/BitcoinTransaction/bin/Debug/netcoreapp2.0/BitcoinTransaction.dll
+/home/bran/BitcoinTransaction/bin/Debug/netcoreapp2.0/BitcoinTransaction.pdb
+/home/bran/BitcoinTransaction/obj/Debug/netcoreapp2.0/BitcoinTransaction.csproj.CoreCompileInputs.cache
+/home/bran/BitcoinTransaction/obj/Debug/netcoreapp2.0/BitcoinTransaction.AssemblyInfoInputs.cache
+/home/bran/BitcoinTransaction/obj/Debug/netcoreapp2.0/BitcoinTransaction.AssemblyInfo.cs
+/home/bran/BitcoinTransaction/obj/Debug/netcoreapp2.0/BitcoinTransaction.dll
+/home/bran/BitcoinTransaction/obj/Debug/netcoreapp2.0/BitcoinTransaction.pdb
